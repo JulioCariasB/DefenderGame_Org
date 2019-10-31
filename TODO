@@ -1,0 +1,6 @@
+TODO
+1. Hacer que el juego sea jugable
+2. Convertir las siguientes funciones
+   2.1 startGame
+   2.2 drawNave
+   2.3 move
